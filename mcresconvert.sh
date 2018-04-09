@@ -199,7 +199,7 @@ blocks/bed_head_end.png beds_bed_side_top.png
 blocks/bed_head_top.png beds_bed_top_top.png
 blocks/bed_head_side.png beds_bed_side_top_r.png
 blocks/bed_head_side.png beds_bed_side_top_l.png h
-items/boat.png boats_inventory.png
+items/oak_boat.png boats_inventory.png
 items/book_writable.png default_book.png
 items/book_written.png default_book_written.png
 blocks/bookshelf.png default_bookshelf.png
